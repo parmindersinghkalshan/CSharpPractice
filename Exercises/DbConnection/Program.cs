@@ -18,7 +18,7 @@ namespace DbConnectionExercise
             oracleConnection.OpenConnection();
             oracleConnection.CloseConnection();
 
-            DbCommand dbCommand = new DbCommand(null);
+            DbCommand dbCommand = new DbCommand(sqlConnection);
             dbCommand.Execute();
 
             Console.ReadLine();
