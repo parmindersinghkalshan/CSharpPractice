@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnectionExercise", "DbConnection\DbConnectionExercise.csproj", "{EAC72C41-0A4A-4A40-9832-893876AD3064}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesExample", "InterfacesExample\InterfacesExample.csproj", "{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EAC72C41-0A4A-4A40-9832-893876AD3064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC72C41-0A4A-4A40-9832-893876AD3064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC72C41-0A4A-4A40-9832-893876AD3064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
