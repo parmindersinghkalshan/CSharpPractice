@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnectionExercise", "DbC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesExample", "InterfacesExample\InterfacesExample.csproj", "{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandlers", "EventHandlers\EventHandlers.csproj", "{4D36F180-44E9-4BF6-A6B0-A1CB4D97A1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{ACED5D8C-7479-4CC6-86D4-1E826078BDE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA7C73ED-748F-44B6-9757-EF3C8EC01F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D36F180-44E9-4BF6-A6B0-A1CB4D97A1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D36F180-44E9-4BF6-A6B0-A1CB4D97A1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D36F180-44E9-4BF6-A6B0-A1CB4D97A1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D36F180-44E9-4BF6-A6B0-A1CB4D97A1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACED5D8C-7479-4CC6-86D4-1E826078BDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACED5D8C-7479-4CC6-86D4-1E826078BDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACED5D8C-7479-4CC6-86D4-1E826078BDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACED5D8C-7479-4CC6-86D4-1E826078BDE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
